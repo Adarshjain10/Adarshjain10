@@ -7,8 +7,8 @@
 - :rocket: Java Full Stack Developer 
 - 🏫 I am a Prefinal Year Student pursuing a Bachelor’s degree in Computer Science and Engineering from Lakshmi Narain College of Technology Bhopal.
 - ⚡️ My expertise primarily revolves around Java Advance( JSP, JDBC, Servlet), Core Java, Oracle Database, Javascript, HTML, CSS, C++, C, Git
-- 🔭 I’m currently working with personal multiple projects.
-- ♥️ I am an Problem Solver.
+- 🔭 I’m currently learning new technologies. 
+- ♥️ I am a Problem Solver.
 
 - 📫 How to reach me **adarshjain2001@gmail.com**
 
