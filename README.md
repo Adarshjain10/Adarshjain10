@@ -5,7 +5,7 @@
 
 #### 🤔 Who Am I!?
 - :rocket: Java Full Stack Developer 
-- 🏫 I am a Computer Science and Engineer from Lakshmi Narain College of Technology Bhopal.
+- 🏫 I am a Computer Science Engineer from Lakshmi Narain College of Technology Bhopal.
 - ⚡️ My expertise primarily revolves around Spring, Java Advance( JSP, JDBC, Servlet), Core Java, Oracle Database, Javascript, HTML, CSS, C++, C, Git
 - 🔭 I’m currently learning new technologies. 
 - ♥️ I am a Problem Solver.
